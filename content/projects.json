@@ -1,4 +1,18 @@
 {
+    "Semantic Segmentation": {
+        "thumbnail": "../images/semantic_thumbnail.png",
+        "title": "Electrifying Settlements with Semantic Segmentation",
+        "description": "Deep learning semantic segmentation approach to classify satellite imagery; trained & evaluated CNN, Resnet, & UNet.",
+        "tag": "Pytorch Lightning • Tensorflow • scikit-learn • Weights and Biases",
+        "link": "https://github.com/aud-dreams/semantic-segmentation"
+    },
+    "CycleCrave": {
+        "thumbnail": "../images/cyclecrave_thumbnail.png",
+        "title": "CycleCrave",
+        "description": "Centralized hub for tailored recommendations around essential facets of menstrual cycle: hydration, sleep, & nutrition.",
+        "tag": "React Native • Firebase • Expo • HealthKit Xcode",
+        "link": "https://github.com/aud-dreams/CycleCrave"
+    },
     "Evergreen": {
         "thumbnail": "../images/evergreen_thumbnail.png",
         "title": "Evergreen",
